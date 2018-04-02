@@ -3,4 +3,5 @@ IMPORTS   = user32
 EXTRADLLFLAGS = -m16
 
 SOURCES = \
-	keyboard.c
+	keyboard.c \
+	thai.c
