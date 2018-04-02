@@ -11,5 +11,6 @@ SOURCES = \
 	hook.c \
 	message.c \
 	network.c \
+	thai.c \
 	user.c \
 	window.c
