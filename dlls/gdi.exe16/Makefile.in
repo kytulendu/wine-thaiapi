@@ -10,4 +10,5 @@ SOURCES = \
 	env.c \
 	gdi.c \
 	metafile.c \
-	printdrv.c
+	printdrv.c \
+	thai.c
